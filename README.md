@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-**salman-shaikh7/salman-shaikh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Salman Shaikh.
+Grad @ University of South Florida | Prev-Intern @CVS Health & Analyst @Capegmini
 
-Here are some ideas to get you started:
+
 
