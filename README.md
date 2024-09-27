@@ -7,23 +7,16 @@ I am a graduate student at the University of South Florida, specializing in Mach
 
 ## TECHNICAL SKILLS
 
-#### Languages & Libraries       
-Python, SQL (T-SQL), PySpark, Pandas, TeradataML, Scikit-Learn
 
-#### Data Warehousing         
-BigQuery, Teradata, Azure Data Lake & SQL Database, Synapse Analytics
 
-#### ETL Tools                 
-Cloud Composer (Airflow), Dataflow, Jenkins, Shell Scripting, Azure data factory
-
-#### Machine Learning           
-Regression, Classification, Deep Learning, Ensemble Learning, A/B Testing
-
-#### Visualization           
-Power BI, Plotly, Matplotlib, Seaborn
-
-#### Tools
-VS code, Anaconda, Jupyter Notebook, Docker, Git
+|           |                                                                |
+|-------------------------|---------------------------------------------------------------------------|
+| **Languages & Libraries**| Python, SQL (T-SQL), PySpark, Pandas, TeradataML, Scikit-Learn              |
+| **Data Warehousing**     | BigQuery, Teradata, Azure Data Lake & SQL Database, Synapse Analytics       |
+| **ETL Tools**            | Cloud Composer (Airflow), Dataflow, Jenkins, Shell Scripting, Azure Data Factory |
+| **Machine Learning**     | Regression, Classification, Deep Learning, Ensemble Learning, A/B Testing  |
+| **Visualization**        | Power BI, Plotly, Matplotlib, Seaborn                                      |
+| **Tools**                | VS Code, Anaconda, Jupyter Notebook, Docker, Git                           |
 
 
 
