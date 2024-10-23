@@ -28,3 +28,8 @@ I am a graduate student at the University of South Florida, specializing in Mach
   - ![Cloud Composer](https://img.shields.io/badge/-Cloud%20Composer-34A853?logo=googlecloud&logoColor=white&style=flat)
   - ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
   - ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white&style=flat)
+
+
+## Let's Connect!
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/salman-shaikh7)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/salman-shaikh7)
