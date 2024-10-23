@@ -6,10 +6,12 @@ I am a graduate student at the University of South Florida, specializing in Mach
 
 ## About Me
 
-- 🎓 **Master's in Business Analytics and Information Systems** from the University of South Florida (GPA: 3.81)
+- 🎓 **Master's in Information Systems** from the University of South Florida (GPA: 3.81)
+- 
 - 💼 **Industry Experience**: 
   - Data Engineering Intern at CVS Health (May 2024 – Aug 2024).
   - Analyst at Capgemini (Oct 2021 - Aug 2023).
+  - 
 - 💻 **Technical Skills**: 
   - Programming: Python, SQL
   - Data Engineering: Apache Spark, Apache Beam, Data Warehousing
