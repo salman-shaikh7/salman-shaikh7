@@ -18,8 +18,8 @@ I am a graduate student at the University of South Florida, specializing in Mach
   - Visualization: Looker, Dashboards
 
 - 💻 **Technical Skills**: 
-  Programming Languages - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
-  - ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat)
+  Programming Languages - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat)
+  - 
   - ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
   - ![Apache Beam](https://img.shields.io/badge/-Apache%20Beam-F37A48?logo=apachebeam&logoColor=white&style=flat)
   - ![Data Warehousing](https://img.shields.io/badge/-Data%20Warehousing-1F305F?logo=databricks&logoColor=white&style=flat)
