@@ -21,6 +21,12 @@ I am a graduate student at the University of South Florida, specializing in Mach
   
   -  Languages & Libraries - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) ![TeradataML](https://img.shields.io/badge/-Teradata-F37440?logo=teradata&logoColor=white&style=flat)
 
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat)
+![Teradata](https://img.shields.io/badge/-Teradata-F37440?logo=teradata&logoColor=white&style=flat)
+![Azure Data Lake](https://img.shields.io/badge/-Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white&style=flat)
+![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-0078D4?logo=microsoftsqlserver&logoColor=white&style=flat)
+![Azure Synapse Analytics](https://img.shields.io/badge/-Azure%20Synapse%20Analytics-0089D6?logo=microsoftazure&logoColor=white&style=flat)
+
 
 
   - 
