@@ -22,6 +22,6 @@ I am a graduate student at the University of South Florida, specializing in Mach
 
 
 ## Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/salmanshaikh7)      [![Email](https://img.shields.io/badge/Email-salmanshaikh@usf.edu-blue?style=flat&logo=gmail&logoColor=white)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/salmanshaikh7)      ![Email](https://img.shields.io/badge/Email-salmanshaikh@usf.edu-blue?style=flat&logo=gmail&logoColor=white)
 
 
