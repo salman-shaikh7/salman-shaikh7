@@ -11,11 +11,11 @@ I am a graduate student at the University of South Florida, specializing in Mach
   - Analyst at Capgemini (Oct 2021 - Aug 2023).
 
 - 💻 **Technical Skills**: 
-  -  **Languages & Libraries** :   Python, SQL (T-SQL), PySpark, Pandas, TeradataML, Scikit-Learn
-  -  **Data Warehousing** :  BigQuery, Teradata, Azure Data Lake & SQL Database, Synapse Analytics
-  -  **ETL Tools** :  Cloud Composer (Airflow), Dataflow, Jenkins, Shell Scripting, Azure data factory
-  -  **Machine Learning** :   Regression, Classification, Deep Learning, Ensemble Learning, A/B Testing
-  -  **Visualization** :   Power BI, Plotly, Matplotlib, Seaborn
+  -  **Languages & Libraries** :   Python, SQL, Shell Scripting, PySpark, Pandas, TeradataML, Scikit-Learn
+  -  **Data Warehousing** :  Apache Iceberg, Delta Tables, BigQuery, Teradata, Azure Data Lake & SQL Database, Synapse Analytics
+  -  **ETL Tools** :  Spark, Airflow, Dataflow, Jenkins, Shell Scripting, Azure data factory
+  -  **Machine Learning** :   Regression, Classification, Deep Learning, Ensemble Learning
+  -  **Visualization** :   Tableau, Power BI, Plotly, Matplotlib, Seaborn
   -  **Tools** :   VS code, Anaconda, Jupyter Notebook, Docker, Git
 
 
