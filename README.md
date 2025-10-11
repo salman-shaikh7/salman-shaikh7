@@ -17,10 +17,7 @@ I’m passionate about transforming raw data into powerful insights and building
 ---
 
 ## 💡 What Drives Me  
-I thrive on **designing scalable data pipelines**, **optimizing data workflows**,  
-and leveraging **cloud technologies** to make data accessible and actionable.  
-Whether it’s streaming real-time analytics or building predictive models,  
-I love turning complex challenges into elegant solutions.
+I thrive on **designing scalable data pipelines**, **optimizing data workflows**, and leveraging **cloud technologies** to make data accessible and actionable. Whether it’s streaming real-time analytics or building predictive models, I love turning complex challenges into elegant solutions.
 
 ---
 
