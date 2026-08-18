@@ -13,7 +13,7 @@ I’m a **Data Engineer** passionate about building **scalable data platforms**,
 ---
 
 ## 💼 Experience  
-- 🧠 **Data Engineer** – Global Lending Services *(Sept 2025 – Present)*  
+- 🧠 **Data Engineer** – Global Lending Services *(Aug 2025 – Present)*  
 - ⚡ **Data Engineering Intern** – Tesla *(Jan 2025 – May 2025)*  
 - 💊 **Data Engineering Intern** – CVS Health *(May 2024 – Aug 2024)*  
 - 🌐 **Software Engineer** – Capgemini *(Oct 2021 – Aug 2023)*  
