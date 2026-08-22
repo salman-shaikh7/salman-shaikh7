@@ -48,4 +48,4 @@ I’m a **Data Engineer** passionate about building **scalable data platforms**,
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/salmanshaikh7)  
-[![Email](https://img.shields.io/badge/Email-salmanshaikh@usf.edu-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanshaikh@usf.edu)
+[![Email](https://img.shields.io/badge/Email-sal.shaikh018@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanshaikh@usf.edu)
