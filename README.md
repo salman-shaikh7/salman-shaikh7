@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salman Shaikh  
+# Hi, I'm Salman  
 
 I’m a **Data Engineer** passionate about building **scalable data platforms**, **real-time analytics pipelines**, and **cloud-native solutions** that transform raw data into actionable insights.
 
