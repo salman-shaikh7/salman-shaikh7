@@ -1,51 +1,63 @@
-# Hi, I'm Salman  
+# Hi, I'm Salman
 
-I’m a **Data Engineer** passionate about building **scalable data platforms**, **real-time analytics pipelines**, and **cloud-native solutions** that transform raw data into actionable insights.
+I’m a **Data Engineer** focused on **data platforms, distributed systems, and cloud infrastructure**. I build batch and streaming pipelines, develop lakehouse architectures, and run reliable data workloads on Kubernetes.
 
----
+## What I Do
 
-## ☁️ What I Do  
-- Design **end-to-end data pipelines** for batch and streaming workloads  
-- Build **data lakehouses** and optimize **ETL/ELT frameworks**  
-- Develop **data-driven solutions** using **cloud and open-source tools**  
-- Enable **analytics and ML** through reliable, automated data systems  
+* Build **ETL/ELT pipelines** across APIs, SFTP, databases, and cloud storage
+* Develop **lakehouse platforms** using Databricks, Delta Lake, and Apache Iceberg
+* Implement **CDC and streaming pipelines** with Kafka and Debezium
+* Deploy and orchestrate workloads using **Kubernetes, Docker, Airflow, and Prefect**
+* Improve **performance, reliability, observability, and storage costs**
 
----
+## Experience
 
-## 💼 Experience  
-- 🧠 **Data Engineer** – Global Lending Services *(Aug 2025 – Present)*  
-- ⚡ **Data Engineering Intern** – Tesla *(Jan 2025 – May 2025)*  
-- 💊 **Data Engineering Intern** – CVS Health *(May 2024 – Aug 2024)*  
-- 🌐 **Software Engineer** – Capgemini *(Oct 2021 – Aug 2023)*  
+**Data Engineer — Global Lending Services**
+*Aug 2025 – Present*
 
----
+**Data Engineering Intern — Tesla**
+*Jan 2025 – May 2025*
 
-## 🎓 Education  
-**M.S. in Information Systems** – *University of South Florida*  
-**GPA:** 3.86  
+**Data Engineering Intern — CVS Health**
+*May 2024 – Aug 2024*
 
----
-
-## 🧰 Technical Skills  
-
-**Programming:** Python, SQL, R, Bash, Shell Scripting  
-
-**Big Data & Processing:** Spark, Kafka, DBT, Debezium, SQLAlchemy, Pandas  
-
-**Databases:** Snowflake, BigQuery, Teradata, Trino, Vertica, MySQL, PostgreSQL, MS SQL Server  
-
-**Data Lakes & Storage:** S3, ADLS Gen2, Apache Iceberg, Delta Lake, Hadoop  
-
-**Cloud Platforms:** Azure (Data Factory, Databricks, ADLS, DevOps), AWS (S3, CloudWatch, SFTP)  
-
-**Orchestration & CI/CD:** Airflow, ADF, GitHub Actions, Kubernetes, Docker, Git  
-
-**Analytics & ML:** Scikit-learn, XGBoost, Prophet, Pytest, Tableau, Power BI  
-
----
+**Software Engineer — Capgemini**
+*Oct 2021 – Aug 2023*
 
 
+## Technical Skills
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/salmanshaikh7)  
-[![Email](https://img.shields.io/badge/Email-sal.shaikh018@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanshaikh@usf.edu)
+**Programming:** Python, SQL, Bash
+
+**Data Processing:** Apache Spark, PySpark, Spark SQL, Databricks, Pandas, dbt
+
+**Streaming & CDC:** Apache Kafka, Debezium, Snowflake Streams & Tasks
+
+**Lakehouse & Storage:** Apache Iceberg, Delta Lake, Amazon S3, Azure Blob Storage, ADLS Gen2
+
+**Databases & Query Engines:** Snowflake, BigQuery, Vertica, PostgreSQL, MySQL, SQL Server, Teradata, Trino
+
+**Orchestration:** Apache Airflow, Prefect, Azure Data Factory
+
+**Infrastructure & DevOps:** Kubernetes, Docker, Terraform, Git, GitHub Actions, Azure DevOps
+
+**Cloud Platforms:** Azure, AWS, Google Cloud
+
+**Testing & Observability:** pytest, Azure Monitor, Prometheus, Grafana
+
+**Analytics:** Power BI, Tableau
+
+## Education
+
+**M.S. in Business Analytics and Information Systems**
+University of South Florida · **GPA: 3.86**
+
+## Currently Exploring
+
+* Kubernetes cluster administration and Linux infrastructure
+* Distributed query engines and open lakehouse architectures
+* Reliable, observable data platform design
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/salmanshaikh7) · [Email](mailto:sal.shaikh018@gmail.com)
