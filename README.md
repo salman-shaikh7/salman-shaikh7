@@ -1,6 +1,6 @@
 # Hi, I'm Salman
 
-I’m a **Data Engineer** focused on **data platforms, distributed systems, and cloud infrastructure**. I build batch and streaming pipelines, develop lakehouse architectures, and run reliable data workloads on Kubernetes.
+I’m a **Data Engineer** focused on **data platforms, distributed systems, and cloud infrastructure**. I build batch and streaming pipelines, develop data pipelines on lakehouse architectures, and run reliable data workloads on Kubernetes.
 
 ## What I Do
 
